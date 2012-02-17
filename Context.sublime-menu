@@ -1,0 +1,6 @@
+[  
+    {  
+        "caption": "Go to Declaration", 
+        "command": "php_go_to_declaration"
+    }  
+]  
